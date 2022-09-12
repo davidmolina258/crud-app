@@ -1,0 +1,47 @@
+{
+  "suramerica": [
+    {
+      "pais": "Venezuela",
+      "id": 1,
+      "habitantes": 30000000,
+      "presidente": "nicolas Maduro",
+      "capital": "Caracas"
+    },
+    {
+      "pais": "Argentina",
+      "id": 3,
+      "habitantes": 47327407,
+      "presidente": "Alberto Fernandez",
+      "capital": "Buenos Aires"
+    },
+    {
+      "pais": "Chile",
+      "id": 4,
+      "habitantes": 17574003,
+      "presidente": "Gabriel Boric Font",
+      "capital": "Santiago de Chile"
+    },
+    {
+      "pais": "Colombia",
+      "id": 5,
+      "habitantes": 51609474,
+      "presidente": "Gustavo Petro Urrego",
+      "capital": "Bogota"
+    },
+    {
+      "id": 6,
+      "pais": "Uruguay",
+      "capital": "Montevideo"
+    },
+    {
+      "pais": "Ecuador ",
+      "capital": "Quito",
+      "id": 1661282425943
+    },
+    {
+      "pais": "Bolivia",
+      "capital": "La paz",
+      "id": 1662768035760
+    }
+  ]
+}
